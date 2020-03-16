@@ -19,29 +19,10 @@ Number and name of feature: 2.Modify the content
 
 Estimate of time needed to complete: 3hrs
 
-Start time: 7:00
+Start time: 1:00
 
-Finish time: _____
+Finish time: 10:23
 
-Actual time needed to complete: _____
+Actual time needed to complete: 9hrs 23mins
 
 
-Number and name of feature: ________________________________
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
-
-Number and name of feature: ________________________________
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
